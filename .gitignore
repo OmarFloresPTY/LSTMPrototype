@@ -1,0 +1,8 @@
+lstm/
+venv/
+MP_Data/
+MP_Data_Webcam/
+MP_Data_Celular/
+.ipynb_checkpoints/
+models/
+Entrenamientos/
