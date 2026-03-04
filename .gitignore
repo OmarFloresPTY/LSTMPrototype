@@ -2,9 +2,8 @@ lstm/
 venv/
 MP_Data_Webcam_Holistic/
 .ipynb_checkpoints/
-models/
-Entrenamientos/
 captura.ipynb
 entrenamiento.ipynb
 MP_Data_Webcam_Pose_Manos/
 MP_Data_Webcam_Manos
+matriz_confusion/
